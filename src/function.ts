@@ -15,6 +15,7 @@ function actionAfterMeow(meowForWhat: string): void {
   }
 }
 
+// ERROR
 // This'll error because catMeowForWhat may return string | null | undefined
 // actionAfterMeow(catMeowForWhat(mycat))
 

@@ -10,5 +10,6 @@ addBtn.addEventListener("click", () => {
   console.log(add(+num1.value, +num2.value))
 })
 
+// ERROR
 // You Should Not Passed!
 // add("a", "b")
